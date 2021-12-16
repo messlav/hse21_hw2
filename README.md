@@ -2,6 +2,7 @@
 
 # Ссылки на colab-notebooks
 https://colab.research.google.com/drive/1uotvQY1eP0hLGE7AspSxYyfPzpqzEj5b?usp=sharing
+https://colab.research.google.com/drive/14_r47pV7VDU-OfvCGTg07Y-vyRdsasfb?usp=sharing
 
 # Статистика
 3568 белков, 3281 из них получилось аннатировать при помощи сходства с MIL-1, также 52 с помощью SwissProt, и 287 оказались без аннотации 
